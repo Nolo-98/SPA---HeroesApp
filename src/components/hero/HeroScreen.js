@@ -35,7 +35,7 @@ export const HeroScreen = () => {
           <img 
              src={ imgPath }
              alt={ superhero }
-             className="img-thumbnail"
+             className="img-thumbnail animate__animated animate__backInLeft"
           />
         </div>
 
